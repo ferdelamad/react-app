@@ -1,0 +1,14 @@
+## MAC files ##
+.DS_Store
+
+## NPM ##
+npm
+npm-debug.log
+node_modules/
+
+# Compiled Dirs
+build/
+client/dist/
+
+# vscode
+.vscode
