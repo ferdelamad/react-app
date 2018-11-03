@@ -3,7 +3,8 @@
   background: lightgrey;
   justify-content: center;
   align-items: center;
-  height: 60%;
+  flex-direction: column;
+  height: 600px;
   width: 80%;
   margin: auto;
 }
