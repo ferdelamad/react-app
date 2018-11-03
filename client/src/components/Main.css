@@ -1,6 +1,8 @@
 .main {
-  flex: 4;
+  flex: 5;
   background: lightcoral;
   text-align: center;
   width: 100%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
