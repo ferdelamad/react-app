@@ -17,6 +17,7 @@
   "bugs": {
     "url": "https://github.com/ferdelamad/react-app/issues"
   },
+  "homepage": "https://github.com/ferdelamad/react-app#readme",
   "dependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
@@ -43,6 +44,5 @@
     "style-loader": "^0.21.0",
     "webpack": "^4.16.1",
     "webpack-cli": "^3.0.8"
-  },
-  "homepage": "https://github.com/ferdelamad/react-app#readme"
+  }
 }
