@@ -4,7 +4,8 @@
   "description": "React app template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,10 @@
     "url": "https://github.com/ferdelamad/react-app/issues"
   },
   "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
