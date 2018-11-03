@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Header';
 import Main from './Main';
 
-export default class App extends Component {
+class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -20,3 +20,5 @@ export default class App extends Component {
     );
   }
 }
+
+export default App;

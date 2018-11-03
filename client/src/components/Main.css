@@ -1,6 +1,7 @@
 .main {
   flex: 5;
-  background: lightcoral;
+  background: #bada55;
+  color: #fff;
   text-align: center;
   width: 100%;
   border-bottom-left-radius: 20px;
